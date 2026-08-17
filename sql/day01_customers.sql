@@ -13,7 +13,7 @@ Practice basic filtering and sorting using a sample customers table.
 
 -- Create Table
 
-CREATE TABLE customers (
+CREATE TABLE `eco-avenue-332912.de_practice.customers` (
     customer_id INT,
     customer_name VARCHAR(50),
     city VARCHAR(50),
